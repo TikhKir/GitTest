@@ -1,4 +1,6 @@
 package com.example.gittest
 
-class AwesomeViewModel {
+import androidx.lifecycle.ViewModel
+
+class AwesomeViewModel: ViewModel() {
 }
